@@ -1,0 +1,32 @@
+.body {
+    background-color: lightgray;
+}
+
+.headers-div {
+    text-align: center;
+    font-weight: bold;
+}
+
+#sub-Header,
+#main-header {
+    margin: 1%;
+}
+
+.eaten {
+    background-color: darkgrey;
+    width: 20%;
+}
+
+.not-eaten {
+    background-color: darkslategray;
+    width: 20%;
+}
+
+.main-body {
+    margin: auto;
+}
+
+.form-div {
+    text-align: center;
+    margin: auto;
+}
