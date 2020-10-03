@@ -13,12 +13,12 @@
 }
 
 .eaten {
-    background-color: darkgrey;
+    /* background-color: darkgrey; */
     width: 20%;
 }
 
 .not-eaten {
-    background-color: darkslategray;
+    /* background-color: darkslategray; */
     width: 20%;
 }
 
